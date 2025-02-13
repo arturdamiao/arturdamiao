@@ -6,6 +6,12 @@ Sou mestrando em Sociologia pela USP e cientista social quantitativo, também fo
 
 💬 Para saber mais sobre mim, dê uma olhada nos meus repositórios ou meu [site](arturdamiao.com).
 
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:artur.cardoso@usp.br" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-dami%C3%A3o-983b88168/" alt="LinkedIn"/></a>
+</p>
 ---
 
 ## Minhas Skills
