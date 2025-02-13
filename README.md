@@ -4,7 +4,7 @@ Sou mestrando em Sociologia pela USP e cientista social quantitativo, também fo
 
 🔭 Atualmente investigo padrões de atuação policial por meio de georreferenciamento.
 
-💬 Para saber mais sobre mim, dê uma olhada nos meus repositórios ou meu [site](arturdamiao.com).
+💬 Para saber mais sobre mim, dê uma olhada nos meus repositórios ou meu [site](arturdamiao.com). Ou, entre em contato:
 
 <p align="left">
   <a href="#" title="Gmail">
@@ -12,6 +12,7 @@ Sou mestrando em Sociologia pela USP e cientista social quantitativo, também fo
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-dami%C3%A3o-983b88168/" alt="LinkedIn"/></a>
 </p>
+
 ---
 
 ## Minhas Skills
